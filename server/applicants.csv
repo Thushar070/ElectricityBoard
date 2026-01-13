@@ -1,0 +1,5 @@
+name,phone,address,meter_type,status
+Ravi,9876543210,Chennai,Domestic,Pending
+Anita,9123456780,Coimbatore,Commercial,Approved
+Kumar,9012345678,Madurai,Domestic,Pending
+Priya,9988776655,Salem,Commercial,Rejected
